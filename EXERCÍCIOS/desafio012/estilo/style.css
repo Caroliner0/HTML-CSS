@@ -69,7 +69,7 @@ section.imagem{
     text-shadow: 1.5px 1.5px 0px black;
     color: white;
     box-shadow: inset 6px 6px 13px 0px rgba(42, 41, 41, 0.611);
-    background-position: right center;
+    background-position: left center;
     background-size: cover;
     background-attachment: fixed;
 }
